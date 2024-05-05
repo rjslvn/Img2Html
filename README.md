@@ -31,7 +31,7 @@ You also need to have an OpenAI API key configured as an environment variable (`
 To run the application, execute the following command in your terminal:
 
 ```bash
-python analyze_image.py
+python app.py
 ```
 
 You will be prompted to enter the URL of the image you want to analyze. After entering the URL, the application will begin processing and will output the generated HTML in the terminal as well as save it to a file named `final_output.html`.
