@@ -36,23 +36,7 @@ python app.py
 
 You will be prompted to enter the URL of the image you want to analyze. After entering the URL, the application will begin processing and will output the generated HTML in the terminal as well as save it to a file named `final_output.html`.
 
-## Configuration
 
-No additional configuration is needed beyond setting up the `OPENAI_API_KEY` environment variable.
-
-## Contributing
-
-Contributions to enhance the functionality, improve the HTML/CSS generation accuracy, or refine the user interface are welcome. Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, contact [your-email@example.com] or open an issue in the GitHub repository.
-
-## Acknowledgements
 
 - Thanks to OpenAI for providing the API that powers this tool.
 - Thanks to the developers of `click`, `rich`, and `tqdm` for their fantastic Python libraries that enhance this application's functionality.
