@@ -22,13 +22,8 @@ You also need to have an OpenAI API key configured as an environment variable (`
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repository/image-to-html.git
-   cd image-to-html
-   ```
+   git clone https://github.com/rjslvn/img2html.git
 
-2. **Install the required Python packages:**
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
